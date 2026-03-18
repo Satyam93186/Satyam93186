@@ -45,7 +45,7 @@ Passionate about building real-world projects and improving problem-solving skil
 ## 📫 Connect with Me
 
 * 💼 LinkedIn:(https://www.linkedin.com/in/satyam-singh7/)
-* 📧 Email: [your-email@gmail.com](satyamsingh9279@gmail.com)
+* 📧 Email:(satyamsingh9279@gmail.com)
 
 ---
 
