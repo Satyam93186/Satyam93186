@@ -1,16 +1,56 @@
-## Hi there 👋
+ 👋 I'm Satyam Singh
 
-<!--
-**Satyam93186/Satyam93186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Engineering Student | 💻 Aspiring Developer
+Passionate about building real-world projects and improving problem-solving skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🎓 Engineering student
+* 🌱 Currently learning: Data Structures & Web Development
+* 💡 Interested in: Backend Development & Problem Solving
+* ⚡ Fun fact: I enjoy debugging more than coding 😄
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Languages: C++, Java, Python
+* 🌐 Web: HTML, CSS, JavaScript
+* ⚙️ Tools: Git, GitHub, VS Code
+
+---
+
+## 🚀 Projects
+
+* 🔹 Portfolio Website
+* 🔹 Todo App
+* 🔹 Library Management System
+
+---
+
+## 📊 GitHub Stats
+
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyam93186\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Satyam93186\&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn:(https://www.linkedin.com/in/satyam-singh7/)
+* 📧 Email: [your-email@gmail.com](satyamsingh9279@gmail.com)
+
+---
+
+## ⚡ Quote
+
+"Consistency beats talent when talent doesn’t work hard." 🚀
+
+---
