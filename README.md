@@ -97,11 +97,4 @@ Git • GitHub • VS Code
 
 ---
 
-## ⚡ Quote
 
-"Code. Learn. Build. Repeat." 🚀
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Satyam93186/Satyam93186/blob/output/github-contribution-grid-snake.svg)
-## 🐍 Contribution Snake
----
